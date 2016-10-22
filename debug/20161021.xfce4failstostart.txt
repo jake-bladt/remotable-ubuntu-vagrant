@@ -1,0 +1,33 @@
+(xfsettingsd:1539): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NUL
+L' failed                                                                       
+Home directory not accessible: Permission denied                                
+                                                                                
+(xfce4-volumed:1549): xfce4-volumed-WARNING **: xvd_connect_to_pulse: failed to 
+connect context: OK                                                             
+                                                                                
+(xfce4-volumed:1549): xfce4-volumed-WARNING **: Unable to initialize pulseaudio 
+support, quitting                                                               
+                                                                                
+(xfce4-volumed:1549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_
+OBJECT (object)' failed                                                         
+xscreensaver: 03:10:45: locking is disabled (running as nobody).                
+xscreensaver: 03:10:45: locking only works when xscreensaver is launched        
+         by a normal, non-privileged user (e.g., not "root".)                   
+         See the manual for details.                                            
+                                                                                
+(xfsettingsd:1539): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DES
+KTOPS property.                                                                 
+                                                                                
+(xfwm4:1515): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' fai
+led                                                                             
+                                                                                
+(polkit-gnome-authentication-agent-1:1525): GLib-CRITICAL **: g_variant_new_stri
+ng: assertion 'string != NULL' failed                                           
+                                                                                
+(polkit-gnome-authentication-agent-1:1525): polkit-gnome-1-WARNING **: Failed to
+ register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The nam
+e org.gnome.SessionManager was not provided by any .service files               
+                                                                                
+(xfwm4:1515): xfwm4-WARNING **: The property '/general/double_click_distance' of
+ type int is not supported
+                                                       
